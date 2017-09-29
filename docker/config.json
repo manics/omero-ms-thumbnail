@@ -1,0 +1,11 @@
+{
+    "debug": true,
+    "port": 8080,
+    "omero": {
+        "host": "omero",
+        "port": 4064
+    },
+    "redis": {
+        "uri": "redis://redis:6379/1"
+    }
+}
